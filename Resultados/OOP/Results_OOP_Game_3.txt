@@ -1,0 +1,7 @@
+Charge - 1000- Avg Spawn Duration - 18.85414- Avg Framerate - 134.56094- Avg Frametime (ms) - 7.43158- QTD Tests for Each Load - 4
+Charge - 2500- Avg Spawn Duration - 47.25266- Avg Framerate - 2.71088- Avg Frametime (ms) - 368.88388- QTD Tests for Each Load - 4
+Charge - 5000- Avg Spawn Duration - 90.41595- Avg Framerate - 1.42882- Avg Frametime (ms) - 699.87738- QTD Tests for Each Load - 4
+Charge - 10000- Avg Spawn Duration - 180.69458- Avg Framerate - 0.6653- Avg Frametime (ms) - 1503.07349- QTD Tests for Each Load - 4
+Charge - 25000- Avg Spawn Duration - 455.79529- Avg Framerate - 0.24838- Avg Frametime (ms) - 4026.06714- QTD Tests for Each Load - 4
+Charge - 50000- Avg Spawn Duration - 941.94031- Avg Framerate - 0.12306- Avg Frametime (ms) - 8126.41455- QTD Tests for Each Load - 4
+Charge - 100000- Avg Spawn Duration - 1928.49731- Avg Framerate - 0.05917- Avg Frametime (ms) - 16901.45898- QTD Tests for Each Load - 4
